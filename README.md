@@ -4,7 +4,7 @@ Hi, I'm Hentioe, a professional and personal developer living in China. Used to 
 
 I personally use **Elixir** and **Rust** mostly in my side business or open source projects. In the actual work experience, Java, Ruby and even Golang are the main ones.
 
-In terms of programming languages, my main research direction is Elixir and Rust, and Crystal, which is not yet mature. Of course, I also have experience in many other mainstream languages, or I can master them quickly.
+In terms of programming languages, my main in-depth direction is Elixir and Rust, as well as the immature Crystal. Of course, I also have experience in many other mainstream languages, or I can master them quickly.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hentioe)](https://github.com/Hentioe/github-readme-stats)
 
