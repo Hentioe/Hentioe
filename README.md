@@ -10,7 +10,7 @@ In terms of programming languages, my main direction is Elixir and Rust, and Cry
 
 ### Future plan
 
-At present, I am planning to devote more energy to open source software, and make open source as part of a side business as much as possible. At the same time, I also look forward to a comfortable job (including remote). It is best for me to play freely, because it can reflect my best value.
+At present, I am planning to devote more energy to open source software, and make open source as part of a side business as much as possible. At the same time, I always look forward to a comfortable job (including remote). It is best for me to play freely, because it can reflect my best value.
 
 ![Hentioe's github stats](https://github-readme-stats.vercel.app/api?username=Hentioe&show_icons=true&icon_color=E0F63F&bg_color=30,57AECE,36F4FF&title_color=fff&text_color=fff)
 
