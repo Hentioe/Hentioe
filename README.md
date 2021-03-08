@@ -18,3 +18,7 @@ At present, I am planning to devote more energy to open source software, and mak
 
 - [Telegram](https://t.me/Hentioe)
 - [知乎](https://www.zhihu.com/people/Hentioe)
+
+### Worthy of reference
+
+- [dotfiles](https://github.com/Hentioe/dotfiles)
