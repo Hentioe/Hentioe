@@ -21,4 +21,4 @@ At present, I am planning to devote more energy to open source software, and mak
 
 ### Worthy of reference
 
-- [dotfiles](https://github.com/Hentioe/dotfiles)
+- [dotfiles](https://github.com/Hentioe/dotfiles) (Linux and configuration files)
