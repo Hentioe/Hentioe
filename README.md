@@ -1,5 +1,4 @@
 
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
@@ -7,7 +6,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hentioe-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Hentioe-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="Hentioe-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="Hentioe-Crystal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg">
   <img align="center" alt="Hentioe-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Hentioe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -28,10 +27,12 @@
 
 Hi, I'm Hentioe, a professional and personal developer living in China. Used to work in Shanghai, now in Shenzhen.
 
-I personally use **Elixir** and **Rust** mostly in my side business or open source projects. In the actual work experience, Java, Ruby and even Golang are the main ones.
+Since I became a full-time independent developer, I've used **Elixir** and **Rust** extensively as base programming languages, and have acquired a very rich technology stack and experience across various domains.
 
-In terms of programming languages, my main in-depth direction is Elixir and Rust, as well as the immature Crystal. Of course, I also have experience in many other mainstream languages, or I can master them quickly.
+Elixir and Rust are my main areas of research, but that doesn't mean I haven't worked with other languages. In fact, in my previous work, I've mainly worked with more mainstream languages such as Java, Ruby, and Golang.
 
-### Future plans
+### Contact me
 
-At present, I am planning to devote more energy to open source software, and make open source as part of a side business as much as possible. At the same time, I always look forward to ideal and comfortable work (including remote). It is best for me to play freely, because it can reflect my best value.
+Over the past few years, I managed to develop (or participate in the development of) several software products for companies/individuals all over the world (mainly Chinese companies, but also Americans). Especially in the areas of Telegram, blockchain, cloud computing, etc., in-house infrastructure framework development and design, etc.
+
+Feel free to contact me, I accept remote work.
