@@ -1,19 +1,19 @@
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
  </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hentioe-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
-  <img align="center" alt="Hentioe-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img align="center" alt="Hentioe-Crystal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg">
-  <img align="center" alt="Hentioe-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Hentioe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hentioe-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Hentioe-NixOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg">
-  <img align="center" alt="Hentioe-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="right" alt="Hentioe-avator" width="100em" src="https://avatars.githubusercontent.com/u/13946976">
+  <img align="center" alt="Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+  <img align="center" alt="Typescript"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="SolidJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="NixOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="right" alt="avator" width="100em" src="https://avatars.githubusercontent.com/u/13946976">
 </div>
 
 ##
@@ -31,7 +31,7 @@ Since I became a full-time independent developer, I've used **Elixir** and **Rus
 
 Elixir and Rust are my main areas of research, but that doesn't mean I haven't worked with other languages. In fact, in my previous work, I've mainly worked with more mainstream languages such as Java, Ruby, and Golang.
 
-### Contact me
+## Contact me
 
 Over the past few years, I managed to develop (or participate in the development of) several software products for companies/individuals all over the world (mainly Chinese companies, but also Americans). Especially in the areas of Telegram, blockchain, cloud computing, etc., in-house infrastructure framework development and design, etc.
 
