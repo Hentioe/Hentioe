@@ -37,3 +37,13 @@ Elixir and Rust are my main areas of research, but that doesn't mean I haven't w
 Over the past few years, I managed to develop (or participate in the development of) several software products for companies/individuals all over the world (Singapore/USA/Europe). Especially in the areas of Telegram, blockchain, cloud computing, etc., in-house infrastructure framework development and design, etc.
 
 Feel free to contact me, I accept remote work.
+
+## Recommend
+
+Here are some recommended projects beyond the pinned list:
+
+- [Miragend](https://github.com/Hentioe/miragend): Universal reverse proxy for fighting AI and illegal crawlers
+- [thumbhash-ex](https://github.com/Hentioe/thumbhash-ex): Pure Elixir implementation of ThumbHash
+- [Honeycomb](https://github.com/Hentioe/honeycomb): Another scheduling system, focusing on the collection of results for one-time tasks, written in Elixir
+- [dockerized-apps](https://github.com/Hentioe/dockerized-apps): My dockerized apps
+- [dotfiles](https://github.com/Hentioe/dotfiles): Hentioe's configurations
