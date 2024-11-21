@@ -24,7 +24,7 @@
 <a href = "https://t.me/Hentioe"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDx0aXRsZT5UZWxlZ3JhbTwvdGl0bGU+CgogICAgPHBhdGggZmlsbD0id2hpdGUiCiAgICAgICAgZD0iTTExLjk0NCAwQTEyIDEyIDAgMCAwIDAgMTJhMTIgMTIgMCAwIDAgMTIgMTIgMTIgMTIgMCAwIDAgMTItMTJBMTIgMTIgMCAwIDAgMTIgMGExMiAxMiAwIDAgMC0uMDU2IDB6bTQuOTYyIDcuMjI0Yy4xLS4wMDIuMzIxLjAyMy40NjUuMTRhLjUwNi41MDYgMCAwIDEgLjE3MS4zMjVjLjAxNi4wOTMuMDM2LjMwNi4wMi40NzItLjE4IDEuODk4LS45NjIgNi41MDItMS4zNiA4LjYyNy0uMTY4LjktLjQ5OSAxLjIwMS0uODIgMS4yMy0uNjk2LjA2NS0xLjIyNS0uNDYtMS45LS45MDItMS4wNTYtLjY5My0xLjY1My0xLjEyNC0yLjY3OC0xLjgtMS4xODUtLjc4LS40MTctMS4yMS4yNTgtMS45MS4xNzctLjE4NCAzLjI0Ny0yLjk3NyAzLjMwNy0zLjIzLjAwNy0uMDMyLjAxNC0uMTUtLjA1Ni0uMjEycy0uMTc0LS4wNDEtLjI0OS0uMDI0Yy0uMTA2LjAyNC0xLjc5MyAxLjE0LTUuMDYxIDMuMzQ1LS40OC4zMy0uOTEzLjQ5LTEuMzAyLjQ4LS40MjgtLjAwOC0xLjI1Mi0uMjQxLTEuODY1LS40NC0uNzUyLS4yNDUtMS4zNDktLjM3NC0xLjI5Ny0uNzg5LjAyNy0uMjE2LjMyNS0uNDM3Ljg5My0uNjYzIDMuNDk4LTEuNTI0IDUuODMtMi41MjkgNi45OTgtMy4wMTQgMy4zMzItMS4zODYgNC4wMjUtMS42MjcgNC40NzYtMS42MzV6IiAvPgo8L3N2Zz4=" target="_blank"></a>
 </div>
 
-## About me
+## About Me
 
 Hi, I'm Hentioe, a professional and personal developer living in China. Used to work in Shanghai, now in Shenzhen.
 
@@ -32,7 +32,7 @@ Since I became a full-time independent developer, I've used **Elixir** and **Rus
 
 Elixir and Rust are my main areas of research, but that doesn't mean I haven't worked with other languages. In fact, in my previous work, I've mainly worked with more mainstream languages such as Java, Ruby, and Golang.
 
-## Contact me
+## Contact Me
 
 Over the past few years, I managed to develop (or participate in the development of) several software products for companies/individuals all over the world (Singapore/USA/Europe). Especially in the areas of Telegram, blockchain, cloud computing, etc., in-house infrastructure framework development and design, etc.
 
@@ -47,3 +47,23 @@ Here are some recommended projects beyond the pinned list:
 - [Honeycomb](https://github.com/Hentioe/honeycomb): Another scheduling system, focusing on the collection of results for one-time tasks, written in Elixir
 - [dockerized-apps](https://github.com/Hentioe/dockerized-apps): My dockerized apps
 - [dotfiles](https://github.com/Hentioe/dotfiles): Hentioe's configurations
+
+## Donation Addresses
+
+**TRON**:
+
+```plaintext
+TTekQLBz2CY4CvB8xdhpyQZCcKsk4BPhxm
+```
+
+**BSC / POLYGON**:
+
+```plaintext
+0xae96e9225B9324688D6d93118a9a6001042c7965
+```
+
+**TON**:
+
+```plaintext
+UQAofsJ_4o0wdbm0e-d0eYkHEsU7xzzY1oxIBLx1qK3as9hh
+```
