@@ -48,6 +48,11 @@ Here are some recommended projects beyond the pinned list:
 - [dockerized-apps](https://github.com/Hentioe/dockerized-apps): My dockerized apps
 - [dotfiles](https://github.com/Hentioe/dotfiles): Hentioe's configurations
 
+Here are some recommended blog posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Donation Addresses
 
 **TRON**:
