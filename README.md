@@ -42,6 +42,7 @@ Feel free to contact me, I accept remote work.
 
 Here are some recommended projects beyond the pinned list:
 
+- [Axiom](https://github.com/Hentioe/axiom): AI chat adapter library written in Elixir
 - [Miragend](https://github.com/Hentioe/miragend): Universal reverse proxy for fighting AI and illegal crawlers
 - [thumbhash-ex](https://github.com/Hentioe/thumbhash-ex): Pure Elixir implementation of ThumbHash
 - [Honeycomb](https://github.com/Hentioe/honeycomb): Another scheduling system, focusing on the collection of results for one-time tasks, written in Elixir
