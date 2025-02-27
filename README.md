@@ -52,6 +52,7 @@ Here are some recommended projects beyond the pinned list:
 Here are some recommended blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Axiom Chat 机器人使用指南](https://blog.hentioe.dev/posts/axiom-chat-bot.html)
 - [星露谷 Mods 推荐（含安装方法、下载地址和使用介绍）](https://blog.hentioe.dev/posts/stardew-valley-mods-recommendations.html)
 - [用于对抗 AI 的通用反向代理 Miragend 的介绍以及使用教程](https://blog.hentioe.dev/posts/miragend-introduction-tutorial.html)
 - [MPV 是一个怎样的播放器？一文带你认识 MPV](https://blog.hentioe.dev/posts/getting-to-know-mpv.html)
