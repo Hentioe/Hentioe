@@ -52,6 +52,7 @@ Here are some recommended projects beyond the pinned list:
 Here are some recommended blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Elixir 入门篇：认识 Elixir](https://blog.hentioe.dev/posts/elixir-getting-started-understanding-elixir.html)
 - [Axiom Chat 机器人使用指南](https://blog.hentioe.dev/posts/axiom-chat-bot.html)
 - [星露谷 Mods 推荐（含安装方法、下载地址和使用介绍）](https://blog.hentioe.dev/posts/stardew-valley-mods-recommendations.html)
 - [用于对抗 AI 的通用反向代理 Miragend 的介绍以及使用教程](https://blog.hentioe.dev/posts/miragend-introduction-tutorial.html)
