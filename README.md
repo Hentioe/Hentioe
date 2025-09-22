@@ -53,11 +53,11 @@ Here are some recommended projects beyond the pinned list:
 Here are some recommended blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [番茄钟：Tauri 跨端应用开发前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-tauri-application-prospects.html)
 - [OpenAmber 项目介绍：自动登记系统「喵星备案」的开源实现](https://blog.hentioe.dev/posts/open-amber.html)
 - [Elixir 入门篇：认识 Elixir](https://blog.hentioe.dev/posts/elixir-getting-started-understanding-elixir.html)
 - [Axiom Chat 机器人使用指南](https://blog.hentioe.dev/posts/axiom-chat-bot.html)
 - [星露谷 Mods 推荐（含安装方法、下载地址和使用介绍）](https://blog.hentioe.dev/posts/stardew-valley-mods-recommendations.html)
-- [用于对抗 AI 的通用反向代理 Miragend 的介绍以及使用教程](https://blog.hentioe.dev/posts/miragend-introduction-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Donation Addresses
