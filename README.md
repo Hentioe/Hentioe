@@ -1,15 +1,15 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
- </div>
-
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg">
   <img align="center" alt="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
+  <img align="center" alt="Zig" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg">
   <img align="center" alt="Typescript"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="SolidJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="NixOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
@@ -62,16 +62,16 @@ Here are some recommended blog posts:
 
 ## Donation Addresses
 
+**BSC / POLYGON / Arbitrum**:
+
+```plaintext
+0xae96e9225B9324688D6d93118a9a6001042c7965
+```
+
 **TRON**:
 
 ```plaintext
 TTekQLBz2CY4CvB8xdhpyQZCcKsk4BPhxm
-```
-
-**BSC / POLYGON**:
-
-```plaintext
-0xae96e9225B9324688D6d93118a9a6001042c7965
 ```
 
 **TON**:
