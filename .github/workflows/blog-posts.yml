@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.hentioe.dev/recommended.xml"
-          committer_username: "Hentioe's Actions Checker"
+          committer_username: "blog-posts-actions"
           committer_email: "actions@hentioe.dev"
