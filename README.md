@@ -1,6 +1,6 @@
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?show_icons=true&icon_color=AAADFF&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&bg_color=282a36&title_color=AAEDFF&text_color=fff&username=Hentioe" />
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg">
@@ -53,6 +53,7 @@ Here are some recommended projects beyond the pinned list:
 Here are some recommended blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [现代化 C 语言替代：认识 Zig 语言](https://blog.hentioe.dev/posts/modern-c-language-alternative-introducing-zig-language.html)
 - [番茄钟：Tauri 跨端应用开发前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-tauri-application-prospects.html)
 - [OpenAmber 项目介绍：自动登记系统「喵星备案」的开源实现](https://blog.hentioe.dev/posts/open-amber.html)
