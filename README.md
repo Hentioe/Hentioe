@@ -22,6 +22,7 @@
 <div>
 <a href = "https://blog.hentioe.dev/"><img src="https://img.shields.io/badge/博客-ff7930?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGl0bGU+QmxvZ2dlcjwvdGl0bGU+CiAgPHBhdGggZmlsbD0id2hpdGUiCiAgICBkPSJNMjEuOTc2IDI0SDIuMDI2Qy45IDI0IDAgMjMuMSAwIDIxLjk3NlYyLjAyNkMwIC45LjkgMCAyLjAyNSAwSDIyLjA1QzIzLjEgMCAyNCAuOSAyNCAyLjAyNXYxOS45NUMyNCAyMy4xIDIzLjEgMjQgMjEuOTc2IDI0ek0xMiAzLjk3NUg5Yy0yLjc3NSAwLTUuMDI1IDIuMjUtNS4wMjUgNS4wMjV2NmMwIDIuNzc0IDIuMjUgNS4wMjQgNS4wMjUgNS4wMjRoNmMyLjc3NCAwIDUuMDI0LTIuMjUgNS4wMjQtNS4wMjR2LTMuOTc1YzAtLjYtLjQ1LTEuMDUtMS4wNS0xLjA1SDE4Yy0uNTI0IDAtLjk3Ni0uNDUtLjk3Ni0uOTc2IDAtMi43NzYtMi4yNS01LjAyNi01LjAyNC01LjAyNnptMy4wNzQgMTJIOWMtLjUyNSAwLS45NzUtLjQ1LS45NzUtLjk3NXMuNDUtLjk3Ni45NzUtLjk3Nmg2LjA3NGMuNTI2IDAgLjk3Ny40NS45NzcuOTc2cy0uNDUuOTc2LS45NzUuOTc2em0tMi41NS03Ljk1Yy41MjcgMCAuOTc2LjQ1Ljk3Ni45NzVzLS40NS45NzUtLjk3NS45NzVoLTMuNmMtLjUyNSAwLS45NzYtLjQ1LS45NzYtLjk3NXMuNDUtLjk3NS45NzUtLjk3NWgzLjZ6IiAvPgo8L3N2Zz4=" target="_blank"></a>
 <a href = "https://www.zhihu.com/people/Hentioe"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0484fc?style=for-the-badge&logo=Zhihu&logoColor=white" target="_blank"></a>
+<a href="https://x.com/Hentioe"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/Hentioe"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDx0aXRsZT5UZWxlZ3JhbTwvdGl0bGU+CgogICAgPHBhdGggZmlsbD0id2hpdGUiCiAgICAgICAgZD0iTTExLjk0NCAwQTEyIDEyIDAgMCAwIDAgMTJhMTIgMTIgMCAwIDAgMTIgMTIgMTIgMTIgMCAwIDAgMTItMTJBMTIgMTIgMCAwIDAgMTIgMGExMiAxMiAwIDAgMC0uMDU2IDB6bTQuOTYyIDcuMjI0Yy4xLS4wMDIuMzIxLjAyMy40NjUuMTRhLjUwNi41MDYgMCAwIDEgLjE3MS4zMjVjLjAxNi4wOTMuMDM2LjMwNi4wMi40NzItLjE4IDEuODk4LS45NjIgNi41MDItMS4zNiA4LjYyNy0uMTY4LjktLjQ5OSAxLjIwMS0uODIgMS4yMy0uNjk2LjA2NS0xLjIyNS0uNDYtMS45LS45MDItMS4wNTYtLjY5My0xLjY1My0xLjEyNC0yLjY3OC0xLjgtMS4xODUtLjc4LS40MTctMS4yMS4yNTgtMS45MS4xNzctLjE4NCAzLjI0Ny0yLjk3NyAzLjMwNy0zLjIzLjAwNy0uMDMyLjAxNC0uMTUtLjA1Ni0uMjEycy0uMTc0LS4wNDEtLjI0OS0uMDI0Yy0uMTA2LjAyNC0xLjc5MyAxLjE0LTUuMDYxIDMuMzQ1LS40OC4zMy0uOTEzLjQ5LTEuMzAyLjQ4LS40MjgtLjAwOC0xLjI1Mi0uMjQxLTEuODY1LS40NC0uNzUyLS4yNDUtMS4zNDktLjM3NC0xLjI5Ny0uNzg5LjAyNy0uMjE2LjMyNS0uNDM3Ljg5My0uNjYzIDMuNDk4LTEuNTI0IDUuODMtMi41MjkgNi45OTgtMy4wMTQgMy4zMzItMS4zODYgNC4wMjUtMS42MjcgNC40NzYtMS42MzV6IiAvPgo8L3N2Zz4=" target="_blank"></a>
 </div>
 
@@ -53,6 +54,7 @@ Here are some recommended projects beyond the pinned list:
 Here are some recommended blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+
 - [现代化 C 语言替代：认识 Zig 语言](https://blog.hentioe.dev/posts/modern-c-language-alternative-introducing-zig-language.html)
 - [番茄钟：Tauri 跨端应用开发前景的强大展现力](https://blog.hentioe.dev/posts/pomodoro-clock-tauri-application-prospects.html)
 - [OpenAmber 项目介绍：自动登记系统「喵星备案」的开源实现](https://blog.hentioe.dev/posts/open-amber.html)
