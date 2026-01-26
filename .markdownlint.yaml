@@ -1,0 +1,3 @@
+MD041: false # Allow files without a top-level heading
+MD033: false # Allow HTML tags
+MD013: false # Allow long lines
