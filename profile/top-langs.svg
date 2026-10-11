@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="94.79"
+          width="94.82"
           height="8"
           fill="#6e4a7e"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="94.79"
+          x="94.82"
           y="0"
-          width="50.29"
+          width="50.31"
           height="8"
           fill="#dea584"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="145.08"
+          x="145.13"
           y="0"
-          width="30.94"
+          width="30.86"
           height="8"
           fill="#ec915c"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="176.02"
+          x="175.99"
           y="0"
-          width="28.43"
+          width="28.44"
           height="8"
           fill="#000100"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="204.45000000000002"
+          x="204.43"
           y="0"
-          width="22.86"
+          width="22.87"
           height="8"
           fill="#f1e05a"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.31"
+          x="227.3"
           y="0"
-          width="22.69"
+          width="22.7"
           height="8"
           fill="#00B4AB"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#6e4a7e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Elixir 37.91%
+        Elixir 37.93%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -205,21 +205,21 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#ec915c" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Zig 12.38%
+        Zig 12.35%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#000100" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Crystal 11.37%
+        Crystal 11.38%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 9.14%
+        JavaScript 9.15%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
