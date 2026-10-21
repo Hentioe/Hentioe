@@ -54,7 +54,7 @@ Here are some recommended projects beyond the pinned list:
 Here are some recommended blog posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JVE 图像查看器：GPU 渲染，自定义着色器管线，本地 AI 模型，极致性能和体验（我正在开发的）](https://blog.hentioe.dev/posts/jve.html)
+- [JVE 图像查看器：GPU 渲染，自定义着色器管线，本地 AI 模型，极致性能和体验](https://blog.hentioe.dev/posts/jve.html)
 - [迎合监管惨遭打脸，滑稽可笑的 systemd](https://blog.hentioe.dev/posts/catering-to-regulation-backfires-the-ridiculous-systemd.html)
 - [高级键盘映射：Kanata 快速入门](https://blog.hentioe.dev/posts/advanced-keymapping-kanata-tutorial.html)
 - [高级键盘映射：keyd 快速入门](https://blog.hentioe.dev/posts/advanced-keymapping-keyd-tutorial.html)
